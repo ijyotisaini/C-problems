@@ -1,2 +1,2 @@
 # C-problems
-Week-1
+Day-1
